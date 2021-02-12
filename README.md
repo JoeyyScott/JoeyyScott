@@ -5,7 +5,7 @@
 
 + 🧠 I'm here to make my mark on the world and start my company to help fight the battle against mental illness.
 + 🧑🏻‍💻 Technology has always been an interest of mine and I'm pursuing a career in the gaming industry working freelance and helping people.
-+ 👨🏼‍💻 As a lover of information I've been going through the course I've acquired a multitude of knowledge already and am always eager to learn more.
++ 👨🏼‍💻 As a lover of information, whilst I've been going through the course I've acquired a multitude of knowledge already and am always eager to learn more.
 + 🙌🏼 I recently completed my second milestone project and have really enjoyed the experience, onto milestone project 3!
 + 📜 If you wish to contact me, use either: [LinkedIn](https://www.linkedin.com/in/joeyy-scott-b5268a1b0/) or [Email](mailto:joeyycodes@hotmail.com)
 + 👀 A few things to know about me and what I do:
@@ -17,14 +17,14 @@
 
 ### Languages, frameworks, libraries and programs
 
-![HTML](/images/html5.png)
+![HTML](images/html5.png)
 ![CSS](images/css3.png)
-![Bootstrap](https://github.com/JoeyyScott/JoeyyScott/blob/master/images/bootstrap.png)
-![GitHub](https://github.com/JoeyyScott/JoeyyScott/blob/master/images/github.png)
-![Git](https://github.com/JoeyyScott/JoeyyScott/blob/master/images/git.png)
-![GitPod](https://github.com/JoeyyScott/JoeyyScott/blob/master/images/gitpod.png)
-![JavaScript](https://github.com/JoeyyScott/JoeyyScott/blob/master/images/javascript.png)
-![jQuery](https://github.com/JoeyyScott/JoeyyScott/blob/master/images/jquery.png)
+![Bootstrap](images/bootstrap.png)
+![GitHub](images/github.png)
+![Git](images/git.png)
+![GitPod](images/gitpod.png)
+![JavaScript](images/javascript.png)
+![jQuery](images/jquery.png)
 
 ---
 
