@@ -17,14 +17,14 @@
 
 ### Languages, frameworks, libraries and programs
 
-![HTML](https://github.com/JoeyyScott/blob/master/images/html.png)
-![CSS](https://github.com/JoeyyScott/blob/master/images/css.png)
-![Bootstrap](https://github.com/JoeyyScott/blob/master/images/bootstrap.png)
-![GitHub](https://github.com/JoeyyScott/blob/master/images/github.png)
-![Git](https://github.com/JoeyyScott/blob/master/images/git.png)
-![GitPod](https://github.com/JoeyyScott/blob/master/images/gitpod.png)
-![JavaScript](https://github.com/JoeyyScott/blob/master/images/javascript.png)
-![jQuery](https://github.com/JoeyyScott/blob/master/images/jquery.png)
+![HTML](https://github.com/JoeyyScott/JoeyyScott/blob/master/images/html5.png)
+![CSS](https://github.com/JoeyyScott/JoeyyScott/blob/master/images/css3.png)
+![Bootstrap](https://github.com/JoeyyScott/JoeyyScott/blob/master/images/bootstrap.png)
+![GitHub](https://github.com/JoeyyScott/JoeyyScott/blob/master/images/github.png)
+![Git](https://github.com/JoeyyScott/JoeyyScott/blob/master/images/git.png)
+![GitPod](https://github.com/JoeyyScott/JoeyyScott/blob/master/images/gitpod.png)
+![JavaScript](https://github.com/JoeyyScott/JoeyyScott/blob/master/images/javascript.png)
+![jQuery](https://github.com/JoeyyScott/JoeyyScott/blob/master/images/jquery.png)
 
 ---
 
